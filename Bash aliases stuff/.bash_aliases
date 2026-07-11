@@ -1,3 +1,4 @@
+# .bash_aliases
 # color var to green if not already
 if [ -z "$TERM_COLOR" ]; then
     export TERM_COLOR="\e[0;32m"
